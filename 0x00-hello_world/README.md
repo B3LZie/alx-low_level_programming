@@ -5,3 +5,4 @@ C HELLO WORLD TASKS
 3 script that compiles a C file and creates an executable named cisfun
 4 C program that prints
 5  C program that prints + new line
+6 C program that prints the size of various types on the computer it is compiled and run on.
