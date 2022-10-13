@@ -3,3 +3,4 @@ C HELLO WORLD TASKS
 1 script that compiles a C file but does not link file ext has .o
 2 2 script that generates the assembly code of a C code and save it in an output file ext .s
 3 script that compiles a C file and creates an executable named cisfun
+4 C program that prints
