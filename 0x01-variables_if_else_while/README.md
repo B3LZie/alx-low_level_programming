@@ -1,0 +1,2 @@
+VARIABLES IF ELSE & WHILE
+0 +ve -ve and 0
