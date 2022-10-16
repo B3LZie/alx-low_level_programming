@@ -6,3 +6,4 @@ VARIABLES IF ELSE & WHILE
 4 Print alphabet excluding q and e 
 5 Print numbers of base 10
 6 Print numbers 0 to 9 using putchar
+7 Print alphabet in reverse
