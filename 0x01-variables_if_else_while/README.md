@@ -4,3 +4,4 @@ VARIABLES IF ELSE & WHILE
 2 prints the alphabet in lowercase
 3 Alphabet in lower and uppercase
 4 Print alphabet excluding q and e 
+5 Print numbers of base 10
