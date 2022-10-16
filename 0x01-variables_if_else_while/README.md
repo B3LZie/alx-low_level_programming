@@ -8,3 +8,4 @@ VARIABLES IF ELSE & WHILE
 6 Print numbers 0 to 9 using putchar
 7 Print alphabet in reverse
 8 Print hexadecimal numbers 0 - f
+9 Print numbers 0 - 9 separated by , and space 
