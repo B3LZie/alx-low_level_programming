@@ -10,3 +10,4 @@ VARIABLES IF ELSE & WHILE
 8 Print hexadecimal numbers 0 - f
 9 Print numbers 0 - 9 separated by , and space 
 100 printing combos in 2s of numbers
+101 Print numbers without repeating combos
