@@ -7,3 +7,4 @@ VARIABLES IF ELSE & WHILE
 5 Print numbers of base 10
 6 Print numbers 0 to 9 using putchar
 7 Print alphabet in reverse
+8 Print hexadecimal numbers 0 - f
