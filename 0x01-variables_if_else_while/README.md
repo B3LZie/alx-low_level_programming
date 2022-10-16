@@ -3,3 +3,4 @@ VARIABLES IF ELSE & WHILE
 1 Finding the last digit og a number 
 2 prints the alphabet in lowercase
 3 Alphabet in lower and uppercase
+4 Print alphabet excluding q and e 
