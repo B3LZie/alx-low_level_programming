@@ -1,4 +1,4 @@
-### [0.\_putchar](./0_putchar.c)
+### [0.\_putchar](./0-putchar.c)
 * Program that prints _putchar, followed by a new line.
 
 ### [1. I sometimes suffer from insomnia.](./1-alphabet.c)
