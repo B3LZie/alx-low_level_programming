@@ -1,25 +1,25 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
- * print_array - printing the numbers of the array
- * @n: number of elements to be printed
- * @a: the array
+ * print_array - prints one every other char
+ * @a: pointer array
+ * @n: array positions
+ * Return: no return
  */
 
 void print_array(int *a, int n)
 {
 	int i;
-
-	for (i = 0; i <= (n - 1); i++)
+	for (i = 0; i < n; i++)
 	{
-		if (i == n - 1)
+		if (i == (n - 1))
 		{
-			printf("%d\n", a[i]);
+			printf("%d", a[i]);
 		}
 		else
 		{
 			printf("%d, ", a[i]);
 		}
 	}
+	printf("\n");
 }
