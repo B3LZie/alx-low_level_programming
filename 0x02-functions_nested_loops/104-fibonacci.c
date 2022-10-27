@@ -11,9 +11,7 @@ int main(void)
 	int i;
 	unsigned long j, k, l, j1, k1, j2, k2, su, sd;
 
-	j = 1;
-	k = 2;
-	l = 3;
+	j = 1, k = 2, l = 3;
 	printf("%lu, %lu, ", j, k);
 	for (i = 3; i <= 92; i++)
 	{
