@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * ptint_buffer - prints a buffer
+ * print_buffer - prints a buffer
  * @b: the buffer
  * @size: the size of the buffer
  */
