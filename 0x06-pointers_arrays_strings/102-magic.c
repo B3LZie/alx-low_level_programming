@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - change the val of an arr without referencing the array
- * Return: always 0
- */
-
 int main(void)
 {
 	int n;
