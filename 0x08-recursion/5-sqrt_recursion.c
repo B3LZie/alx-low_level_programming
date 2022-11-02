@@ -1,11 +1,10 @@
 #include "main.h"
-
+int myfinder(int x, int y);
 /**
  * _sqrt_recursion - calculating the square root
  * @n: the number to find sqrt for
  * Return: square root
  */
-int myfinder(int x, int y);
 
 int _sqrt_recursion(int n)
 {
@@ -18,6 +17,13 @@ int _sqrt_recursion(int n)
 		return (myfinder(n, (n + 1) / 2));
 	}
 }
+
+/**
+ * myfinder - finding the square root
+ * @x: the number to find sqrt for
+ * @y: possible sqrt vals
+ * Return: sqrt val
+ */
 
 int myfinder(int x, int y)
 {
