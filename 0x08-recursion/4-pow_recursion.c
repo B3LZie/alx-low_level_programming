@@ -4,6 +4,7 @@
  * _pow_recursion - x to the power of y
  * @x: the int to power
  * @y: the power
+ * Return: result
  */
 
 int _pow_recursion(int x, int y)
