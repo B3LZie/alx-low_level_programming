@@ -3,7 +3,7 @@
 /**
  * main - program that prints the num of args passed into it
  * @argc: the number if args
- * @rgv: the content of the args
+ * @argv: the content of the args
  * Return: 0 success
  */
 
