@@ -2,7 +2,8 @@
 
 /**
  * main - program that prints its name
- * Description: rename the program, it will print the new name, without having to compile it again
+ * Description: rename the program, it will print the new name,
+ * without having to compile it again
  * You should not remove the path before the name of the program
  * @argc: the number of args
  * @argv: the contents pf the args
