@@ -5,7 +5,7 @@
 char *mystrdup(char *str);
 
 /**
- * new_dog - fn that creates a dog
+ * new_dog - a fn that creates a dog
  * @name: name of dog
  * @age: age of dog
  * @owner: owner

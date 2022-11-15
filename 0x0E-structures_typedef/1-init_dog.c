@@ -4,10 +4,10 @@
 
 /**
  * init_dog - initialising variable struct dog
- * @d - the struct
- * @name - name
- * @age - age
- * @owner - owner
+ * @d: the struct
+ * @name: name
+ * @age: age
+ * @owner: owner
  *
  * Return: void
  */
