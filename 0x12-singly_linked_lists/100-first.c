@@ -4,7 +4,7 @@
 void print_first(void) __attribute__ ((constructor));
 
 /**
- * print-first - print this before you reach the main method
+ * print_first - print this before you reach the main method
  */
 
 void print_first(void)

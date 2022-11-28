@@ -6,14 +6,14 @@
  * @head: the head of the list
  * @str: the string to add
  *
- * Return: the pointer to the head 
+ * Return: the pointer to the head
  */
 
 list_t *add_node_end(list_t **head, const char *str)
 {
 	list_t *t, *hp = *head;
 	unsigned int i;
-	
+
 	i = 1;
 	t = malloc(sizeof(list_t));
 	if (t == NULL)
